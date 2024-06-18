@@ -1,1 +1,2 @@
 # Data_Collection_Challenge11
+Please Note this – in the Jupyter Notebook- part_2_mars_weather.ipynb -  provided in the Starter-code there are questions which I have tried by best to code and get the correct answers. However there are more questions to be answered as per instructions on the Boot-Camp Spot for Module 11. I have incorporated those specific questions and have answered them in the said notebook.
